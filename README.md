@@ -60,38 +60,3 @@ Des logos ont également été réalisés à l'aide d'Illustrator et ont contrib
 Ils sont visible dans le dossier 'logo'.
 
 
-__________________________________________________________________________________________________
-
-# Sujet:
-
-⚠︎ Rendu ergonomie / UX ⚠︎
-
-Bonjour
-
-Pour vous donner les éléments de contexte sur les attendus pour la partie ergonomie/UX, voici un support de cours synthétique qui reprend les éléments abordés de façon informelle lors de notre première séance :
-
-https://seafile.unistra.fr/f/2aa326f900e24648892b/
-
-Je devrai rendre une note à la fin de votre projet. Je me baserai donc sur les rendus suivants :
-
-- Personae
-- Communiqué de presse
-- Arborescence 
-- Wireframes
-- Moodboard
-
-Vos rendus sont à déposer dans ce dossier Seafile :
-
-https://seafile.unistra.fr/u/d/5a18de8c7c8c457fb5f4/
-
-L’objectif est que le travail vous soit utile, et que ce soit efficace. Il n’y a donc pas de contrainte de mise en forme sur ces rendus.
-
-Vous pouvez tout synthétiser dans un document unique, ou me fournir un court document synthétique avec un lien vers vos ressources en ligne (Figma, Miro, Pinterets ou autre) pour peu que les droits me soient donnés au moins en lecture.
-
-Dans tous les cas il faudra penser à préciser l'identité de l’ensemble des membres du groupe.
-
-L’évaluation portera sur chacune de ces parties à part égale, et sera réalisée avec bienveillance. Peu importe que le rendu ne soit pas parfait, pourvu que le travail ait été réalisé avec sérieux.
-
-La date limite de rendu est fixée au 17 juin 2022 23H59.
-
-Bon courage et bon travail ! 
